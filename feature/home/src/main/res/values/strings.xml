@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="something_went_wrong_please_try_again_later">Something went wrong, please try again later</string>
+    <string name="back_to_top">Back to Top</string>
+    <string name="nothing_left">Nothing left.</string>
+    <string name="pagination_loading">Pagination Loading</string>
+    <string name="refresh_loading">Refresh Loading</string>
+</resources>
